@@ -38,8 +38,8 @@
 ---
 
 ### 📫 Contact
-- 💌 Email: *(add if you want)*
-- 🌐 Portfolio: *(future link 😁)*
+- 💌 Email: *devpatiphan@gmail.com*
+- 🌐 Portfolio: *https://mosuzzzz.github.io/Portfolio/*
 
 ---
 
