@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Patiphan</h1>
 
 <p align="center">
-  📚 Student Developer @ RMUTI  
+  📚 Student @ RMUTI  
   💻 Learning to build real-world web applications  
 </p>
 
