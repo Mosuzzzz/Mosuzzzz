@@ -9,8 +9,8 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Studying at **Rajamangala University of Technology Isan (RMUTI)**
-- 🌱 Currently learning: **JavaScript, TypeScript, React, Next.js**
-- 💡 Interested in: Full-stack development & modern web technologies
+- 🌱 Currently learning: **JavaScript, TypeScript, Rust**
+- 💡 Interested in: Backend development & Ai technologies
 - 🚀 Dream: Work in tech and build useful apps for people
 - 😄 Fun fact: Debugging is 50% crying and 50% magic ✨
 
