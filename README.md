@@ -2,18 +2,13 @@
 
 <p align="center">
   📚 Student @ RMUTI  
-  💻 Learning to build real-world web applications  
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 - 🎓 Studying at **Rajamangala University of Technology Isan (RMUTI)**
-- 🌱 Currently learning: **JavaScript, TypeScript, Rust**
-- 💡 Interested in: Backend development & Ai technologies
-- 🚀 Dream: Work in tech and build useful apps for people
-- 😄 Fun fact: Debugging is 50% crying and 50% magic ✨
-
+- 🌱 Currently learning: **JavaScript, TypeScript, Rust, Go**
 ---
 
 ### 🛠️ Skills & Tools (Still Learning!)
